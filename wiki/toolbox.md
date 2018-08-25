@@ -161,5 +161,5 @@
 
 ---
 
-> This Wiki was maintained by [@饭小默].
-> You can make a pull request at [here](https://github.com/LitoMore/fanfou-wiki).
+> This Wiki was maintained by [@饭小默](https://fanfou.com/lito).  
+> You could make a pull request at [here](https://github.com/LitoMore/fanfou-wiki).
