@@ -158,3 +158,8 @@
 **饭否 9 周年**（官方） | 饭否为纪念建站 9 周年推出的专题页面。用户可以通过该页面查看自己的消息关键词、消息频次、第一个互相关注好友等统计信息，并便捷地分享到饭否或其他平台。 | [http://9.fanfou.com/](http://9.fanfou.com/) | 2016-05-12 | [@饭否](http://fanfou.com/fanfou)
 **饭否工具箱**（官方） | 即本页，整理并维护了优秀且当前可用的饭否官方应用和第三方应用。（第一版存档见: [http://blog.fanfou.com/2011/03/05/kevin_fanfoutools/](http://blog.fanfou.com/2011/03/05/kevin_fanfoutools/)） | [http://wiki.fanfou.com/饭否工具箱](http://wiki.fanfou.com/饭否工具箱)<br />[http://spacekid.me/fanfou-toolkit/](http://spacekid.me/fanfou-toolkit/) | 持续更新中 | [@太空小孩](http://fanfou.com/anegie)<br />[@.rex](http://fanfou.com/zhasm)
 **饭否小工具** | 整理了「饭友生日」、「马闹钟」、「时间线清理工具」等饭否小工具以及饭友的淘宝店铺。（GitHub 项目主页: [marcher233/ffkit](https://github.com/marcher233/ffkit)） | [https://marcher.sinaapp.com/](https://marcher.sinaapp.com/)<br />[http://fanfou.chen.ma/](http://fanfou.chen.ma/) | 2013-05-03 | [@marcher](http://fanfou.com/marcher)
+
+---
+
+> This Wiki was maintained by [@饭小默].
+> You can make a pull request at [here](https://github.com/LitoMore/fanfou-wiki).
