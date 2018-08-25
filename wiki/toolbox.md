@@ -137,6 +137,7 @@
 **聊天机器人** | 基于图灵机器人 API 的聊天机器人，[@ 它任意内容](http://fanfou.com/home?status=@聊天机器人%20)，它会自动回复。（GitHub 项目主页: [zkaip/fanfou-chatbot](https://github.com/zkaip/fanfou-chatbot)） | [http://fanfou.com/chatbot](http://fanfou.com/chatbot) | 2016-03-12 | [@可.可.](http://fanfou.com/zkaip)
 **机器人家族** | 饭否机器人列表。 | [http://fanfou.com/机器人家族](http://fanfou.com/机器人家族) | 2010-11-27 | [@Andre](http://fanfou.com/webwidget)
 **机器人们** | 饭否机器人列表。 | [http://fanfou.com/bots](http://fanfou.com/bots) | 2012-04-01 | [@Vanilla.霞羽](http://fanfou.com/mmiaow2)
+**有猫** | 饭否猫片机器人。 | [有猫](https://fanfou.com/yocat) | 2018-08-25 | [@mogita](https://fanfou.com/mogita)
 
 ## 媒体
 
