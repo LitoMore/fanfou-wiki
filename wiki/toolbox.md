@@ -45,6 +45,7 @@
 **Kindle 饭** | 绑定邮件地址后可在 Kindle 分享文字至饭否。（饭否公共主页: [@Kindle酱](http://fanfou.com/kindle.public)） | [https://m.setq.me/apps/kindle](https://m.setq.me/apps/kindle)  (源码 https://github.com/akgnah/kindle-fanfou )| 2017-11-29| [@home2](http://fanfou.com/home2)
 **电磁炉** | Telegram Bot，通过 Telegram 发送文字及图片消息至饭否。| [t.me/fanfoubot](http://t.me/fanfoubot) <br/>开源地址：[Github](http://github.com/blueset/fanfoubot) | 2017-01-28| [@蓝色之风.py3](http://fanfou.com/blueset)
 **Xiaofan** | 饭否微信小程序客户端。 | [xiaofan@github](https://github.com/fanfoujs/xiaofan) | 2018-01-17 | [@饭小默](https://fanfou.com/lito)<br/>[@猫弟](https://fanfou.com/manudytime)<br/>[@mogita](https://fanfou.com/mogita)
+**饭团fantuan** | 饭团是一款饭否客户端。 | [饭团fantuan](https://itunes.apple.com/cn/app/饭团-饭否客户端/id1381222834?mt=8) | 2018-08-25 | [Zhenning Liu](https://itunes.apple.com/cn/developer/zhenning-liu/id1180411581?mt=8)
 
 ### 桌面客户端
 
@@ -58,6 +59,7 @@
 **fanfou-sdk** | 饭否 Node.js 开发工具包，支持 Streaming API | [fanfou-sdk-node@github](https://github.com/LitoMore/fanfou-sdk-node) | 2017-05-20 | [@饭小默](http://fanfou.com/lito)
 **Nofan** | Node.js 命令行客户端，支持多账号登录、发图、消息推送等功能。| [nofan@github](https://github.com/LitoMore/nofan) | 2017-05-20 | [@饭小默](https://fanfou.com/lito)
 **fanfou-streamer** | 饭否 Streaming API SDK，支持创建多个 streamer 实例。 | [fanfou-streamer@github](https://github.com/LitoMore/fanfou-streamer) | 2018-01-17 | [@饭小默](https://fanfou.com/lito)
+**fanfou-sdk-weapp** | 饭否微信小程序开发工具包 | [fanfou-sdk-weapp@github](https://github.com/LitoMore/fanfou-sdk-weapp) | 2018-05-01 | [@饭小默](https://fanfou.com/lito)
 
 ## 小工具
 
