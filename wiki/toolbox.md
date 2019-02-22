@@ -24,7 +24,7 @@
 **卓小饭** | 全新的Material Design饭否Android客户端<ul><li>暂时仅支持Android 5.0以上 </li><li>Android 6.0以上可能需要自行打开存储权限 </li><ul>| Google Play: [卓小饭](https://play.google.com/store/apps/details?id=com.arenas.droidfan)<br />墙内: [pgyer](https://www.pgyer.com/droidxiaofan) | 2016-08-16 | [@放學後茶會](http://fanfou.com/jonahzoro)
 **尚饭** | 简约派饭否Android客户端，流畅的消息流，支持私信，好友请求处理，系统通知| Google Play：[尚饭@googleplay](https://play.google.com/store/apps/details?id=xyz.shaohui.sicilly) <br/>Pgyer: [尚饭@pgyer](https://www.pgyer.com/Sicilly) | 2016-10-24 | [@邵辉Vista](http://fanfou.com/huivista)
 **炒饭** | 一款丝滑流畅且采用 Material Design 设计风格的 Android 客户端 | Google Play： [炒饭@googleplay](https://play.google.com/store/apps/details?id=tech.xana.lab.fans) <br /> 酷安：[炒饭@coolapk](https://www.coolapk.com/apk/tech.xana.lab.fans) | 2018-10-23  | [@炒饭app](http://fanfou.com/fans_app)
-**有饭** | 一款简洁优雅，白白的饭否 Android 客户端  |  Google Play： [有饭@googleplay](https://play.google.com/store/apps/details?id=im.zico.fancy) <br /> 酷安：[有饭@coolapk](https://www.coolapk.com/apk/im.zico.fancy) <br /> [有饭@tinyao](http://app.tinyao.me/youfan/) | 2018-11-03  | [@皂皂.](http://fanfou.com/yaodroid)
+**有饭** | 一款简洁优雅，白白的饭否 Android 客户端  |  Google Play： [有饭@googleplay](https://play.google.com/store/apps/details?id=im.zico.fancy) <br /> 酷安：[有饭@coolapk](https://www.coolapk.com/apk/im.zico.fancy) <br /> 墙内：[有饭@tinyao](http://app.tinyao.me/youfan/) | 2018-11-03  | [@皂皂.](http://fanfou.com/yaodroid)
 
 ### Windows Phone 客户端
 
