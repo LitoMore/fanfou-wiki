@@ -12,6 +12,7 @@
 **饭唠** | 小清新饭否 iOS 客户端。 | App Store: [https://itunes.apple.com/cn/app/fan-lao/id541110403?mt=8](https://itunes.apple.com/cn/app/fan-lao/id541110403?mt=8) | 2016-05-07 | [@realazy](http://fanfou.com/realazy)
 **饭斯基** | 一款简洁的饭否 iOS 客户端。 | App Store: [https://itunes.apple.com/cn/app/fan-si-ji/id1039622797?mt=8](https://itunes.apple.com/cn/app/fan-si-ji/id1039622797?mt=8) | 2016-05-24 | [@simpleapples](http://fanfou.com/simpleapples)
 **核心饭** | 一款饭否 iOS 客户端，支持发布状态，私信，添加好友，修改用户信息等。 | App Store: [https://itunes.apple.com/cn/app/he-xin-fan/id1086497801?mt=8](https://itunes.apple.com/cn/app/he-xin-fan/id1086497801?mt=8) | 2016-05-31 | [@核心饭](http://fanfou.com/anlong2008)
+**饭团fantuan** | 饭团是一款饭否客户端。 | [饭团fantuan](https://itunes.apple.com/cn/app/饭团-饭否客户端/id1381222834?mt=8) | 2018-08-25 | [Zhenning Liu](https://itunes.apple.com/cn/developer/zhenning-liu/id1180411581?mt=8)
 
 ### Android 客户端
 
@@ -46,7 +47,6 @@
 **Kindle 饭** | 绑定邮件地址后可在 Kindle 分享文字至饭否。（饭否公共主页: [@Kindle酱](http://fanfou.com/kindle.public)） | [https://m.setq.me/apps/kindle](https://m.setq.me/apps/kindle)  (源码 https://github.com/akgnah/kindle-fanfou )| 2017-11-29| [@home2](http://fanfou.com/home2)
 **电磁炉** | Telegram Bot，通过 Telegram 发送文字及图片消息至饭否。| [t.me/fanfoubot](http://t.me/fanfoubot) <br/>开源地址：[Github](http://github.com/blueset/fanfoubot) | 2017-01-28| [@蓝色之风.py3](http://fanfou.com/blueset)
 **Xiaofan** | 饭否微信小程序客户端。 | [xiaofan@github](https://github.com/fanfoujs/xiaofan) | 2018-01-17 | [@饭小默](https://fanfou.com/lito)<br/>[@猫弟](https://fanfou.com/manudytime)<br/>[@mogita](https://fanfou.com/mogita)
-**饭团fantuan** | 饭团是一款饭否客户端。 | [饭团fantuan](https://itunes.apple.com/cn/app/饭团-饭否客户端/id1381222834?mt=8) | 2018-08-25 | [Zhenning Liu](https://itunes.apple.com/cn/developer/zhenning-liu/id1180411581?mt=8)
 
 ### 桌面客户端
 
@@ -55,12 +55,13 @@
 **爱饭**（官方） | 一款饭否 Adobe AIR 客户端，支持饭否消息、私信的接收和发送。爱饭开放源代码，跨平台，支持 Windows、OS X 和 Linux。爱饭的 UI 参考 OS X 下流行的 Twitter 客户端 Twitterrifc。（官方饭否: [@爱饭](http://fanfou.com/ifan)） | Google Code Archive: [https://code.google.com/archive/p/ifan/](https://code.google.com/archive/p/ifan/) | 2010-12-01 | [@realazy](http://fanfou.com/realazy)
 **饭包**（官方） | 一款饭否 Adobe AIR 客户端（目前可能有部分功能无法使用）。 | [http://fanfou.com/fankit.html](http://fanfou.com/fankit.html) | 2011-02-22 | –
 **御飯** | 御飯是第一款全功能饭否原生 Mac 客户端，集成了多项 OS X 的最新特性和功能，并可利用 iCloud 在你的 Mac 和 iOS 设备之间同步你的 Timeline 阅读位置。 | App Store: [https://itunes.apple.com/cn/app/yu-fan/id735180013?mt=12](https://itunes.apple.com/cn/app/yu-fan/id735180013?mt=12)<br />[https://imach.me/gohanapp/](https://imach.me/gohanapp/)<br />[http://cl.ly/dm4Y](http://cl.ly/dm4Y)（最新 1.0.3 hotfix 版，修正多帐号切换等问题） | 2014-12-10 | [@麻里的禁書目録](http://fanfou.com/back2mach)
-**pyfan** | 一款饭否 Adobe AIR 客户端（目前可能有部分功能无法使用）。 | [http://fanfou.com/fankit.html](http://fanfou.com/fankit.html) | 2011-02-22 | –
+**fankit** | 一款饭否 Adobe AIR 客户端（目前可能有部分功能无法使用）。 | [http://fanfou.com/fankit.html](http://fanfou.com/fankit.html) | 2011-02-22 | –
 **爱米饭** | 一款饭否命令行客户端，在终端中一键发饭、刷饭，还支持备份所有饭否状态，一键上锁/解锁… | [@github/fanfou-cli](https://github.com/j178/fanfou-cli) |2017-05-19 |[@John.j](http://fanfou.com/john.j)
 **fanfou-sdk** | 饭否 Node.js 开发工具包，支持 Streaming API | [fanfou-sdk-node@github](https://github.com/LitoMore/fanfou-sdk-node) | 2017-05-20 | [@饭小默](http://fanfou.com/lito)
 **Nofan** | Node.js 命令行客户端，支持多账号登录、发图、消息推送等功能。| [nofan@github](https://github.com/LitoMore/nofan) | 2017-05-20 | [@饭小默](https://fanfou.com/lito)
 **fanfou-streamer** | 饭否 Streaming API SDK，支持创建多个 streamer 实例。 | [fanfou-streamer@github](https://github.com/LitoMore/fanfou-streamer) | 2018-01-17 | [@饭小默](https://fanfou.com/lito)
 **fanfou-sdk-weapp** | 饭否微信小程序开发工具包 | [fanfou-sdk-weapp@github](https://github.com/LitoMore/fanfou-sdk-weapp) | 2018-05-01 | [@饭小默](https://fanfou.com/lito)
+**fanfou-sdk-browser** | 饭否 JavaScript 开发工具包 | [fanfou-sdk-browser@github](https://github.com/LitoMore/fanfou-sdk-browser) | 2018-08-01 | [@饭小默](https://fanfou.com/lito)
 
 ## 小工具
 
@@ -74,6 +75,8 @@
 **Wox.Plugin.Fanfou** | 饭否 Wox 发送消息小工具。 | [Wox.Plugin.Fanfou@github](https://github.com/LitoMore/Wox.Plugin.Fanfou) | 2018-01-17 | [@饭小默](https://fanfou.com/lito)
 **kap-fanfou** | 分享屏幕录像到饭否小工具。 | [kap-fanfou@github](https://github.com/LitoMore/kap-fanfou) | 2018-01-17 | [@饭小默](https://fanfou.com/lito)
 **fanfou-desktop-notifier** | 饭否桌面消息推送小工具，支持 macOS、Windows 和 Linux。 | [fanfou-desktop-notifier@github](https://github.com/LitoMore/fanfou-desktop-notifier) | 2018-01-17 | [@饭小默](https://fanfou.com/lito)
+**code-fanfou** | 饭否 VS Code 插件，支持发送消息。 | [code-fanfou@github](https://github.com/LitoMore/code-fanfou) | 2018-12-1 | [@饭小默](https://fanfou.com/lito)
+**bitbar-fanfou** | 饭否 BitBar 插件，支持在 macOS 的状态栏显示未读消息数量。 | [bitbar-fanfou@github](https://github.com/LitoMore/bitbar-fanfou) | 2018-12-12 | [@饭小默](https://fanfou.com/lito)
 
 ### 网页工具
 
